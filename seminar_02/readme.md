@@ -92,7 +92,7 @@ Output
 Реализуйте цикл обучения с следующими компонентами:
 
 **Оптимизатор:**
-- Adam или SGD с momentum=0.9
+- Adam или SGD
 - Learning rate: 0.001
 
 **Loss function:**
